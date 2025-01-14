@@ -1,7 +1,7 @@
 import os
 
-API_ID    = os.environ.get("API_ID", "")
-API_HASH  = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+api_id    = os.environ.get("api_id", "")
+api_hash  = os.environ.get("api_hash", "")
+bot_token = os.environ.get("bot_token", "") 
 AUTH = "7548265642"
 #Bot Username = "MARCO_015"
